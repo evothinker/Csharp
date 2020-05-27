@@ -1,0 +1,11 @@
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMain.resources
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.CoreCompileInputs.cache
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+c:\users\august\source\repos\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
